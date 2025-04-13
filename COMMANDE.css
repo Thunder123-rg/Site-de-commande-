@@ -1,0 +1,43 @@
+.order-form {
+    text-align: center;
+ background-color: #fff;
+ border-radius: 20px;
+ margin-top: 20px;
+ padding-top: 10px;
+ margin-bottom: 100px;
+ margin-left: 400px;
+ margin-right: 400px;
+ font-size: 30px;
+}
+.fm {
+
+    font-size: 50px;
+}
+.order-summary{
+    text-align: center;
+    font-size: 22px;
+    padding-top: 20px;
+    margin-top: 10px;
+    padding-bottom: -40PX;
+}
+.N {
+    font-size: 30px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+.E {
+    font-size: 30px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+.P {
+    font-size: 30px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+.A {
+    font-size: 30px;
+    padding-left: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
